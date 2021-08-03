@@ -1,0 +1,236 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "uuid": "196dace8c74511eb8407c63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          1763.0,
+          331.0
+        ],
+        [
+          1828.0,
+          331.0
+        ],
+        [
+          1828.0,
+          428.0
+        ],
+        [
+          1763.0,
+          428.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196dace9c74511ebbb07c63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          1656.0,
+          350.0
+        ],
+        [
+          1727.0,
+          350.0
+        ],
+        [
+          1727.0,
+          448.0
+        ],
+        [
+          1656.0,
+          448.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196daceac74511eb86ebc63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          1868.0,
+          318.0
+        ],
+        [
+          1930.0,
+          318.0
+        ],
+        [
+          1930.0,
+          414.0
+        ],
+        [
+          1868.0,
+          414.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196dacebc74511eba800c63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          2066.0,
+          326.0
+        ],
+        [
+          2122.0,
+          326.0
+        ],
+        [
+          2122.0,
+          426.0
+        ],
+        [
+          2066.0,
+          426.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196dacecc74511eba4fcc63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          2150.0,
+          334.0
+        ],
+        [
+          2221.0,
+          334.0
+        ],
+        [
+          2221.0,
+          426.0
+        ],
+        [
+          2150.0,
+          426.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196dacedc74511eb936cc63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          2254.0,
+          359.0
+        ],
+        [
+          2323.0,
+          359.0
+        ],
+        [
+          2323.0,
+          456.0
+        ],
+        [
+          2254.0,
+          456.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196daceec74511eb9159c63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          1978.2608695652175,
+          319.32367149758454
+        ],
+        [
+          2033.0,
+          318.0
+        ],
+        [
+          2033.0,
+          413.0
+        ],
+        [
+          1976.328502415459,
+          412.56038647342996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196dacefc74511ebb56ac63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          1859.0,
+          2493.0
+        ],
+        [
+          1925.0,
+          2493.0
+        ],
+        [
+          1925.0,
+          2586.0
+        ],
+        [
+          1859.0,
+          2586.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "uuid": "196dacf0c74511eb92f6c63ca6effaca",
+      "label": "word",
+      "points": [
+        [
+          1973.4234234234232,
+          2500.4504504504503
+        ],
+        [
+          2038.0,
+          2495.0
+        ],
+        [
+          2038.0,
+          2588.0
+        ],
+        [
+          1986.0,
+          2588.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1_2.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 4096,
+  "uuid": "b442b77ec5d411eb87d27d5754f0dc11"
+}
